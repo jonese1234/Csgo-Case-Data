@@ -7,7 +7,7 @@ This is the explanation about how [my website](https://jonesy.moe/Csgo-Cases/ind
 ### The Numbers & Data
 Before i can show you how i calculate the statistics i need to show where the data is coming from.  
 #### Skin prices
-Firstly the skin data is all collected from the steam market place evey 8hs i do not do this collection myself but use [csgobackpack.net's](https://csgobackpack.net/) API which can be found here [csgobackpack.net/api/](https://csgobackpack.net/api/).
+Firstly the skin data is all collected from the steam market place every 8hs. I do not collect this data myself but use [csgobackpack.net's](https://csgobackpack.net/) API which can be found here [csgobackpack.net/api/](https://csgobackpack.net/api/).
 #### Rarity Probability 
 The actual drop rate for the skins raritys have publicly been released by valve when they catered to the Chinese csgo market as Chinese laws state that any gambling/case unboxing has to have the odds publicly available. Information on this can be [found here.](https://www.reddit.com/r/GlobalOffensive/comments/6zd9yx/perfect_world_csgo_has_finally_published_their/)     
 The Results of which are:
