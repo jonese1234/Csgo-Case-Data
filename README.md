@@ -70,7 +70,7 @@ We then times these new values by the percentage chance of getting them. 0.9 (90
 We need to take the price of the Normal skin ($2.93) and times by the wear percentage value (0.16333333 or 16.333%) located in the above and repeat for the StatTrak variant. 
 
     Normal: 2.93‬ * 0.147 = 0.42923999999999995
-    StatTrak: 11.94 * 0.16333333 = 0.19453000000000004
+    StatTrak: 11.94 * 0.016333333 = 0.19453000000000004
    
  We now repeat this step for each wear value. Returning the results below.
  
