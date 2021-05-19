@@ -14,7 +14,7 @@ The Results of which are:
 |Rarity  | Standard  | StatTrak |
 |--|--|--|
 |Special items  | 0.25575%  |0.02558% |
-| Covert | 0.63939%  |0.63940% |
+| Covert | 0.63939%  |0.06394% |
 | Classified | 3.19693%  | 0.31969%|
 | Restricted | 15.98465% | 1.59847%|
 | Mil-Spec | 79.92327% | 7.99233%|
