@@ -1,13 +1,13 @@
 # Csgo-Case-Data
-This is that data package for https://jonesy.moe/Csgo-Cases/index.html
+This is that data package for https://cases.jonesy.moe/
 
 ## How the statistics for the CSGO case details are calculated
 ### Background
-This is the explanation about how [my website](https://jonesy.moe/Csgo-Cases/index.html) calculates the statistics shown. 
+This is the explanation about how [my website](https://cases.jonesy.moe/) calculates the statistics shown. 
 ### The Numbers & Data
 Before i can show you how i calculate the statistics i need to show where the data is coming from.  
 #### Skin prices
-Firstly the skin data is all collected from the steam market place every 8hs. I do not collect this data myself but use [csgobackpack.net's](https://csgobackpack.net/) API which can be found here [csgobackpack.net/api/](https://csgobackpack.net/api/).
+Firstly the skin data is all collected from the steam market place every 8hs. I do not collect this data myself but use [csgobackpack.net's](https://csgobackpack.net/) API which can be found here [csgotrader.app](https://csgotrader.app/prices/).
 #### Rarity Probability 
 The actual drop rate for the skins raritys have publicly been released by valve when they catered to the Chinese csgo market as Chinese laws state that any gambling/case unboxing has to have the odds publicly available. Information on this can be [found here.](https://www.reddit.com/r/GlobalOffensive/comments/6zd9yx/perfect_world_csgo_has_finally_published_their/)     
 The Results of which are:
@@ -134,3 +134,8 @@ Take the final result and divide by the cost of the case + key.
     2.9387910079757003 / (1.37 + 2.49) = 0.76134 or 76.13%
 
  **So the ROI is 76.13%** however this does not take into account Steam Market fees. 
+ 
+ 
+ ## Data format changes
+ As of `2023-02-28 23:50:39Z` the data format has changed to include multiple skin market places other than steam.
+ 
