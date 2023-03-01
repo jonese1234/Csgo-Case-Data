@@ -1,6 +1,9 @@
 # Csgo-Case-Data
 This is that data package for https://cases.jonesy.moe/
 
+## Data format changes
+As of `2023-02-28 23:50:39Z` the data format has changed to include multiple skin market places other than steam.
+
 ## How the statistics for the CSGO case details are calculated
 ### Background
 This is the explanation about how [my website](https://cases.jonesy.moe/) calculates the statistics shown. 
@@ -134,8 +137,4 @@ Take the final result and divide by the cost of the case + key.
     2.9387910079757003 / (1.37 + 2.49) = 0.76134 or 76.13%
 
  **So the ROI is 76.13%** however this does not take into account Steam Market fees. 
- 
- 
- ## Data format changes
- As of `2023-02-28 23:50:39Z` the data format has changed to include multiple skin market places other than steam.
  
